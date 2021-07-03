@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-/*int main() {
+int main() {
 	int number;
 	cout << " nhap vap mot gia tri nguyen : ";
 	cin >> number;
@@ -18,4 +18,4 @@ using namespace std;
 		cout << number << " la so am " << endl;
 	}
 	return 0;
- } */
+ } 
