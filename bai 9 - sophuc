@@ -10,7 +10,7 @@ class sophuc {
 		sophuc operator+(sophuc ob) {
 			sophuc t;
 			t.a = a + ob.a;
-			t.b = b + ob.a;
+			t.b = b + ob.b;
 			return (t);
 		}
 		sophuc operator-(sophuc ob) {
